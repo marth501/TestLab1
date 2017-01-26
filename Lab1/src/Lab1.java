@@ -9,7 +9,7 @@ public class Lab1 {
 		m.setDirector("J.K.", "Rowling", 1965, 7); 
 		
 		//Testing to see if the copy constructor works
-		
+		System.out.println("Test 1\n");
 		
 		//Original 
 		System.out.println("\n**ORIGINAL**\n"+m);
