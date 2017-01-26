@@ -8,6 +8,8 @@ public class Lab1 {
 		m.setDuration(734);
 		m.setDirector("J.K.", "Rowling", 1965, 7); 
 		
+		
+		System.out.println("hi\n");
 		//Testing to see if the copy constructor works
 		System.out.println("Test 1\n");
 		
